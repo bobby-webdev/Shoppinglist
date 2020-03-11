@@ -1,2 +1,2 @@
-# Shoppinglist.io.
+# Shoppinglist.io
 Shoppinglist
