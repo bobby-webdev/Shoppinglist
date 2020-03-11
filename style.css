@@ -1,0 +1,14 @@
+.box
+{ 
+padding-bottom: auto;
+margin: -10px;
+
+}
+
+li
+{
+text-transform: uppercase;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;
+
+}
